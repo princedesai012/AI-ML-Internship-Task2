@@ -1,0 +1,8 @@
+Total passengers: 887
+Overall survival rate: 38.44%
+
+=== Key Insights ===
+1. Survival by class: 1st=62.62%, 2nd=47.28%, 3rd=24.24%
+2. Female survival rate: 74.20% vs Male: 18.89%
+3. Average fare for survivors: $48.40 vs non-survivors: $22.12
+4. Passengers traveling alone survived at 30.35% rate vs with family: 50.55%
